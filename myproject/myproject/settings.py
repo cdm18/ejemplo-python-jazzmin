@@ -86,8 +86,8 @@ JAZZMIN_SETTINGS = {
 
 
 JAZZMIN_UI_TWEAKS = {
-    "theme": "lumen",  # Otras opciones: cerulean, lumen, sandstone
-    "dark_mode_theme": True,
+    "theme": "lux",  # Otras opciones: cerulean, lumen, sandstone
+    "dark_mode_theme": 'cyborg',
     "navbar_small_text": False,
     "footer_small_text": False,
     "body_small_text": False,
