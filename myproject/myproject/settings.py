@@ -85,17 +85,6 @@ JAZZMIN_SETTINGS = {
 }
 
 
-
-MIDDLEWARE = [
-    'django.middleware.security.SecurityMiddleware',
-    'django.contrib.sessions.middleware.SessionMiddleware',
-    'django.middleware.common.CommonMiddleware',
-    'django.middleware.csrf.CsrfViewMiddleware',
-    'django.contrib.auth.middleware.AuthenticationMiddleware',
-    'django.contrib.messages.middleware.MessageMiddleware',
-    'django.middleware.clickjacking.XFrameOptionsMiddleware',
-]
-
 JAZZMIN_UI_TWEAKS = {
     "theme": "lumen",  # Otras opciones: cerulean, lumen, sandstone
     "dark_mode_theme": True,
@@ -113,6 +102,17 @@ JAZZMIN_UI_TWEAKS = {
     "sidebar_nav_compact_style": False,
     "theme_color": "white",
 }
+
+
+MIDDLEWARE = [
+    'django.middleware.security.SecurityMiddleware',
+    'django.contrib.sessions.middleware.SessionMiddleware',
+    'django.middleware.common.CommonMiddleware',
+    'django.middleware.csrf.CsrfViewMiddleware',
+    'django.contrib.auth.middleware.AuthenticationMiddleware',
+    'django.contrib.messages.middleware.MessageMiddleware',
+    'django.middleware.clickjacking.XFrameOptionsMiddleware',
+]
 
 
 ROOT_URLCONF = 'myproject.urls'
