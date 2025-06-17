@@ -10,5 +10,10 @@ Siguiente modificación
 
 <img width="1920" alt="Screenshot 2025-06-17 at 9 42 52 am" src="https://github.com/user-attachments/assets/18968245-8cf3-410c-8dff-6a57d1ea8fc8" />
 
+Ultimo cambio tema Lux
+
+
+<img width="1920" alt="Screenshot 2025-06-17 at 9 55 23 am" src="https://github.com/user-attachments/assets/b67fa672-5b7d-41b8-9a4a-9a4ed440c36d" /><img width="1920" alt="Screenshot 2025-06-17 at 9 47 46 am" src="https://github.com/user-attachments/assets/4caf5327-e7d5-4f94-9088-33c47fb72a79" />
+
 
 
